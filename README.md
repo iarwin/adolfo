@@ -14,7 +14,7 @@
 >```pip install discord.py python-dotenv```
 >
 >but in linux this could cause some errors, depending on how the environment is setted up, so you may need to [virtualize python](https://docs.python.org/3/library/venv.html)
->
+
 >now you will need to [add a bot to your discrod server](https://realpython.com/how-to-make-a-discord-bot-python/) and paste its token in the config.txt file
->
+
 >finally, you will need to download the songs you want to play and distribute them in different directories (playlists) as in the [given example](https://github.com/iarwin/adolfo/tree/main/media/playlists/songs)
