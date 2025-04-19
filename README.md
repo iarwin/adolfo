@@ -29,4 +29,32 @@
 
 > !join      -->   joins the bot to your same voice channel  -->  !join
 
-> !loop      -->   without arguments tells you the state of the variable, you can also give a boolean argument (true/false)  -->  !loop  //  !loop [true/false] 
+> !loop      -->   without arguments tells you the state of the variable, you can also give a boolean argument (true/false)  -->  !loop  //  !loop [true/false]
+
+> !next      -->   skips as many songs as you want (no argument = 1 song)  -->  !next [number]
+
+> !play      -->   play the playlist you want (no argument = random playlist) --> !play [playlist]
+
+> !playlists  -->  see all aviable playlists --> !playlist
+
+> !previous   -->  go back as many songs as you want (no argument = 1 song)  -->  !previous [number]
+
+> !quit      -->  leave voice channel  --> !quit
+
+> !queue    -->   see actual queue  --> !queue
+
+> !restart  -->   start a song from the beginning --> !restart
+
+> !resume  -->    resume a stopped song  -->  !resume
+
+> !shuffle  -->   shuffles the queue (including added songs) --> !shuffle
+
+> !skip    -->    with only a numerical value it acts as !next, but when the argument is in time format it skips to the minute specified (no argument = skips 1 song) --> !skip [number]  //  !skip [hh:mm:ss] (if hh = 0 there is no need to put it)
+
+> !songs   -->    tells you all the aviable songs, and the playlist they belong  -->  !songs
+
+> !stop    -->    stops the song that is playing  -->  !stop
+
+> !volume  -->    set the volume (no argument = tells you the volume level)  --> !volume  //  !volume [number] (number between 0 and 100)
+
+> !whatisthis  -->  tells you the song that is playing right now  -->  !whatisthis
