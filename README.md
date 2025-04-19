@@ -18,3 +18,16 @@
 >now you will need to [add a bot to your discrod server](https://realpython.com/how-to-make-a-discord-bot-python/) and paste its token in the config.txt file
 
 >finally, you will need to download the songs you want to play and distribute them in different directories (playlists) as in the [given example](https://github.com/iarwin/adolfo/tree/main/media/playlists/songs)
+
+
+## usage:
+> !add       -->   is used to add songs to the queue (works the same as spotify's)   |  !add "song"
+
+> !commands  -->   the help I made                                                   |  !commands
+
+> !help      -->   the default help by discord                                       |  !help
+
+> !join      -->   joins the bot to your same voice channel                          |  !join
+
+> !loop      -->   without arguments tells you the state of the variable, you can    | !loop  |  !loop [true/false]
+>                        also give a boolean argument (true/false)
