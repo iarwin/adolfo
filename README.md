@@ -21,13 +21,12 @@
 
 
 ## usage:
-> !add       -->   is used to add songs to the queue (works the same as spotify's)   |  !add "song"
+> !add       -->   is used to add songs to the queue (works the same as spotify's)  --> !add "song"
 
-> !commands  -->   the help I made                                                   |  !commands
+> !commands  -->   the help I made  --> !commands
 
-> !help      -->   the default help by discord                                       |  !help
+> !help      -->   the default help by discord  -->  !help
 
-> !join      -->   joins the bot to your same voice channel                          |  !join
+> !join      -->   joins the bot to your same voice channel  -->  !join
 
-> !loop      -->   without arguments tells you the state of the variable, you can    | !loop  |  !loop [true/false]
->                        also give a boolean argument (true/false)
+> !loop      -->   without arguments tells you the state of the variable, you can also give a boolean argument (true/false)  -->  !loop  //  !loop [true/false] 
